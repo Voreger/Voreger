@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Vladimir
+# 👋 Hi! I'm Vladimir Voreger
 
 I am a Golang backend developer and a student/graduate of Moscow Polytechnic University.  
 I love writing clean code, exploring new technologies, and building projects that make an impact.  
@@ -62,7 +62,7 @@ Also, I am a huge fan of **Golang gopher**!
 
 ## 📫 Contact
 - ✉ Email: gorkov2004@vk.com
-- 💬 Telegram: [@your_nickname](https://t.me/your_nickname)  
+- 💬 Telegram: [@voreger](https://t.me/voreger)  
 <!-- TODO: - 🌐 Portfolio: [your website](https://example.com) -->
 
 ---
