@@ -3,10 +3,6 @@
 I am a Golang backend developer and a student of Moscow Polytechnic University.  
 I love writing clean code, exploring new technologies, and building projects that make an impact.  
 Also, I am a huge fan of **Golang gopher**!  
-
-![Go gopher gif](https://camo.githubusercontent.com/4de4717e3ba8f3f1e48eb73c7006e891cfed0103ebd379f816095fa25d60e198/68747470733a2f2f6d656469612e74656e6f722e636f6d2f68443536582d5135417a4d414141416a2f676f706865722d7368616b696e672e676966)
-
-
 ---
 
 ## 🛠 Skills
@@ -34,12 +30,16 @@ Also, I am a huge fan of **Golang gopher**!
   <a href="https://github.com/Voreger/TaskTracker">
     <img src="https://img.shields.io/badge/Go-Task_Tracker-blue?style=for-the-badge" />
   </a>
+  <a href="https://github.com/Voreger/ExpirationMaster">
+    <img src="https://img.shields.io/badge/Go-Expiration_Master-green?style=for-the-badge" />
+  </a>
   <a href="https://github.com/Voreger/LeetCode">
     <img src="https://img.shields.io/badge/Go-LeetCode-orange?style=for-the-badge" />
   </a>
 </div>
 
 - **[Go Task Tracker](https://github.com/Voreger/TaskTracker)** — Task Tracker with PostgreSQL, Redis, RabbitMQ, JWT authentication, and CRUD operations.
+- **[Go Expiration Master](https://github.com/Voreger/ExpirationMaster)** — Expiration date tracking system with automatic notifications, RabbitMQ integration, Telegram alerts, and web interface.
 - **[LeetCode Go](https://github.com/Voreger/LeetCode)** — Solving algorithmic challenges in Go to improve problem-solving and coding skills.
 
 <!--
